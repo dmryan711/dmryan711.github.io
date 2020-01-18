@@ -4,8 +4,8 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Star Wars RPG](https://dmryan711.github.io/StarWarsRPG/)
+<img src="images/starwars.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

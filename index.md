@@ -8,12 +8,12 @@
 <img src="images/starwars.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Marvel Guessing Game](https://dmryan711.github.io/HeroGuessGame/)
+<img src="images/marvel.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Beacon]https://dmryan711-beacon.herokuapp.com/)
+<img src="images/beaconLogo.png"/>
 
 ---
 

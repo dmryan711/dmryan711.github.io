@@ -12,7 +12,7 @@
 <img src="images/marvel.jpg?raw=true"/>
 
 ---
-[Beacon]https://dmryan711-beacon.herokuapp.com/)
+[Beacon](https://dmryan711-beacon.herokuapp.com/)
 <img src="images/beaconLogo.png"/>
 
 ---
